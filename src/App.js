@@ -7,7 +7,7 @@ import { CreateTodoButton } from './CreateTodoButton';
 
 
 const defaultTodos = [
-  { text: 'Gonzalo mejilas', completed: false},
+  { text: 'Gonzalo mejilas', completed: true},
   { text: 'Limpiar cuarto', completed: false},
   { text: 'Terminar curso de React.js', completed: false}
 ]
