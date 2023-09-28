@@ -15,9 +15,10 @@
     font-size: 18px;
     line-height: 24px;
     font-weight: 400;
-    &--complete{
-        text-decoration: line-through;
-    }
+}
+
+.TodoItem-p--complete {
+    text-decoration: line-through;
 }
 
 .Icon{

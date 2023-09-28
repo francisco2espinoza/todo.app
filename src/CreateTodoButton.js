@@ -1,7 +1,8 @@
 import './CreateTodoButton.css';
 function CreateTodoButton(){
     return(
-        <button className="CreateTodoButton">Boton de DIos</button>
+        <button className="CreateTodoButton"
+        onClick={}>+</button>
         
     );
 }
